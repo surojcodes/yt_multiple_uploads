@@ -11,7 +11,7 @@ This repo shows you how to upload multiple files/images from a form in laravel 8
 **Instruction**
 
 -   Create your database
--   Modify the .env file to add your database name, username and password
+-   Rename .env.example to .env and Modify the .env file to add your database name, username and password
 
     ```
     DB_CONNECTION=mysql
